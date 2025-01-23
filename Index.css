@@ -154,3 +154,12 @@
     
 }
 
+.box12{
+    border-radius: 10%;
+    width: 200px;
+}
+.mom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
